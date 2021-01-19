@@ -83,14 +83,14 @@
     1. [_SPM-13_سيدمهدي سيادتيان حقيقي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/13_%D8%B3%D9%8A%D8%AF%D9%85%D9%87%D8%AF%D9%8A%20%D8%B3%D9%8A%D8%A7%D8%AF%D8%AA%D9%8A%D8%A7%D9%86%20%D8%AD%D9%82%D9%8A%D9%82%D9%8A)
 
 </div>
-
-<div align="center">
-     
+---
+<div dir="rtl">
+    
 ## روز و ساعت ارائه دروس
 
 </div>
 
-<div dir="ltr">
+<div dir="ltr" align="center">
      
 <table style="width:100%">
   <tr>
