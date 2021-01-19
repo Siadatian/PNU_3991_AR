@@ -13,8 +13,28 @@
 - [GitHub Page](https://github.com/Siadatian)
 
 </div>
+<div dir="rtl">
+    
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/Siadatian/PNU_3991_AR/blob/main/Assessment/MS_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/Siadatian/PNU_3991_AR/blob/main/Assessment/MS_GeneralSection_CheckList_AR_3991.pdf)
+
+##  بخش دروس ارشد
+- [خلاصه ارزیابی درس_مدیریت پروژه‌های نرم افزاری](https://github.com/Siadatian/PNU_3991_AR/blob/main/Assessment/MS_SoftwareProjectManagement_CheckList_AR_3991.pdf)
+
+</div>
 
 <div dir="rtl">
+
+<div dir="rtl">
+    
+## فهرست درس ها  
+
+[مدیریت پروژه‌های نرم افزاری 1115272_01](https://github.com/Siadatian/PNU_3991_AR/tree/main/SoftwareProjectManagement)
+    
+</div>
 
 ---
 ## سیاهه ارزشیابی درس
