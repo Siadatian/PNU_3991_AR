@@ -83,3 +83,72 @@
     1. [_SPM-13_سيدمهدي سيادتيان حقيقي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/13_%D8%B3%D9%8A%D8%AF%D9%85%D9%87%D8%AF%D9%8A%20%D8%B3%D9%8A%D8%A7%D8%AF%D8%AA%D9%8A%D8%A7%D9%86%20%D8%AD%D9%82%D9%8A%D9%82%D9%8A)
 
 </div>
+
+<div align="center">
+     
+## روز و ساعت ارائه دروس
+
+</div>
+
+<div dir="ltr">
+     
+<table style="width:100%">
+  <tr>
+    <th >16-18</th>
+    <th >14-16</th>
+    <th >12-14</th>
+    <th>10-12</th>
+    <th>8-10</th>
+    <th>روز</th>
+  </tr>
+  <tr>
+    <th ><a > </a></th>
+    <th ><a > </a></th>
+    <th ><a > </a></th>
+    <th></th>
+    <th ></th>
+    <th>شنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th ></th>
+    <th>یک شنبه</th>
+  </tr>
+   <tr>
+     <th ><a> </a> </th>
+     <th ><a > </a></th>
+     <th><a  > </a></th>
+    <th ></th> 
+    <th></th>
+  <th>دوشنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th ></th>
+    <th>سه شنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+     <th ></th>
+    <th>چهارشنبه</th>
+  </tr>
+   <tr>
+    <th></th>
+     <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement#pnu_3991">مدیریت پروژه‌های نرم افزاری</a></th>
+     <th></th>
+     <th></th>
+    <th></th>
+    <th>پنج شنبه</th>
+  </tr>
+</table>
+
+</div>
