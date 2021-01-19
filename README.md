@@ -13,6 +13,8 @@
 - [GitHub Page](https://github.com/Siadatian)
 
 </div>
+
+---
 <div dir="rtl">
     
 ## ارزیابی ها
@@ -26,8 +28,7 @@
 
 </div>
 
-<div dir="rtl">
-
+---
 <div dir="rtl">
     
 ## فهرست درس ها  
